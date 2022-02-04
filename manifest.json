@@ -1,0 +1,32 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "name": "Spotify Player",
+  "version": "2.4",
+  "description": "Spotify Extension | Coder Mert",
+  "permissions": [
+    "contextMenus",
+    "declarativeContent"
+  ],
+  "host_permissions": [
+    "*://*.spotify.com/"
+  ],
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_icon": {
+      "16": "images/spotify-mini-player-16.png",
+      "48": "images/spotify-mini-player-48.png",
+      "128": "images/spotify-mini-player-128.png"
+    },
+    "default_title": "Spotify Extension",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "images/spotify-mini-player-16.png",
+    "48": "images/spotify-mini-player-48.png",
+    "128": "images/spotify-mini-player-128.png"
+  }
+}
