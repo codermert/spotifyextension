@@ -11,7 +11,8 @@ Not : Chrome Store'da yayınlamadım
 Bildiğiniz gibi, henüz **Chrome Store** ' da yayınlanmadı, bu yüzden bu uzantıyı zip olarak indirmeniz ve daha sonra bir klasöre ayıklamanız gerekiyor (istediğiniz gibi adlandırabilirsiniz). Şimdi bu 3 basit adımı takip etmeniz gerekecek
 
 
-![merrrrttt](https://user-images.githubusercontent.com/53333294/115143369-85a55e80-a04f-11eb-9c83-a7f9baded4f6.png)
+![merrrrttt](https://user-images.githubusercontent.com/53333294/152501595-643b699c-ea84-4be2-b65d-ac05f46fc309.PNG)
+()
 
 - İlk önce   chrome://extensions/   sayfasına girin 
 - Ardından **Geliştirici Modu**'nu aktif edin
