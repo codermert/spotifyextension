@@ -12,7 +12,7 @@ Bildiğiniz gibi, henüz **Chrome Store** ' da yayınlanmadı, bu yüzden bu uza
 
 
 ![merrrrttt](https://user-images.githubusercontent.com/53333294/152501595-643b699c-ea84-4be2-b65d-ac05f46fc309.PNG)
-()
+
 
 - İlk önce   chrome://extensions/   sayfasına girin 
 - Ardından **Geliştirici Modu**'nu aktif edin
