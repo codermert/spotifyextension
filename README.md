@@ -26,7 +26,7 @@ Bildiğiniz gibi, henüz **Chrome Store** ' da yayınlanmadı, bu yüzden bu uza
 
 ## 🌐 Telif Hakkı ve Lisans
 
-* *Copyright (C) 2021 by* [codermert](https://github.com/codermert) ❤️️
+* *Copyright (C) 2022 by* [codermert](https://github.com/codermert) ❤️️
 * [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007] *Koşullarına göre lisanslanmıştır..*
 
 ## ♻️ İletişim
