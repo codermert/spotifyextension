@@ -17,7 +17,7 @@ Bildiğiniz gibi, henüz **Chrome Store** ' da yayınlanmadı, bu yüzden bu uza
 - İlk önce   chrome://extensions/   sayfasına girin 
 - Ardından **Geliştirici Modu**'nu aktif edin
 - Aktif ettikten sonra **Paketlenmemiş öğe yükle** deyin
-- Ve uzantımız hazır , Şimdi uzantımızı açıp bir YouTube linkini MP3 veya MP4 dosyasına dönüştürün!
+- Ve uzantımız hazır , Şimdi uzantımızı açıp Spotify ile şarkılarınızı kontrol edin!
 
 
 ## 💸 Bağış Yap
